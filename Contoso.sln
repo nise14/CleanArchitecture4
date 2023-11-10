@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnterpriseBusinessRules", "EnterpriseBusinessRules", "{62B8591D-AB30-4F0F-8BF4-A3F70517E091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Entities", "EnterpriseBusinessRules\Contoso.Entities\Contoso.Entities.csproj", "{F14BDCD9-3640-4989-9BA8-4708940C404C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Abstractions", "EnterpriseBusinessRules\Contoso.Abstractions\Contoso.Abstractions.csproj", "{765CF002-1B1F-4E96-9C76-B59134E0FA70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfacesAdapters", "InterfacesAdapters", "{A7817362-D7FD-4557-BF09-F7437E0C33BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{9FCF1AA5-4B26-45A1-BFC9-10733445D509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Repository.Dapper", "InterfacesAdapters\Repositories\Contoso.Repository.Dapper\Contoso.Repository.Dapper.csproj", "{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Repository.EFCore", "InterfacesAdapters\Repositories\Contoso.Repository.EFCore\Contoso.Repository.EFCore.csproj", "{D293B8F8-F159-4505-BAFE-F3C2F3D5D732}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationBusinessRules", "ApplicationBusinessRules", "{4B4E707E-761C-4950-8BD6-D642DFF1BA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Interactors.Abstractions", "ApplicationBusinessRules\Contoso.Interactors.Abstractions\Contoso.Interactors.Abstractions.csproj", "{9B679645-4C24-4938-92ED-BD510CA7D6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Videos.UseCases", "ApplicationBusinessRules\Contoso.Videos.UseCases\Contoso.Videos.UseCases.csproj", "{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Builders", "ApplicationBusinessRules\Contoso.Builders\Contoso.Builders.csproj", "{A9A315C3-3563-4087-9399-948B2F072438}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presenters", "Presenters", "{EA8FE191-0EDF-4E4C-9BC2-09936FEF174F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Presenters", "InterfacesAdapters\Presenters\Contoso.Presenters\Contoso.Presenters.csproj", "{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrameworksAndDrivers", "FrameworksAndDrivers", "{BCB57F99-5E32-427B-ABDA-76B9CACDEB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.API", "FrameworksAndDrivers\Contoso.API\Contoso.API.csproj", "{FCC0D9D5-C87A-42AE-976B-15A67837DA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14BDCD9-3640-4989-9BA8-4708940C404C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14BDCD9-3640-4989-9BA8-4708940C404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14BDCD9-3640-4989-9BA8-4708940C404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14BDCD9-3640-4989-9BA8-4708940C404C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765CF002-1B1F-4E96-9C76-B59134E0FA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765CF002-1B1F-4E96-9C76-B59134E0FA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765CF002-1B1F-4E96-9C76-B59134E0FA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765CF002-1B1F-4E96-9C76-B59134E0FA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D293B8F8-F159-4505-BAFE-F3C2F3D5D732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293B8F8-F159-4505-BAFE-F3C2F3D5D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293B8F8-F159-4505-BAFE-F3C2F3D5D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293B8F8-F159-4505-BAFE-F3C2F3D5D732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B679645-4C24-4938-92ED-BD510CA7D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B679645-4C24-4938-92ED-BD510CA7D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B679645-4C24-4938-92ED-BD510CA7D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B679645-4C24-4938-92ED-BD510CA7D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A315C3-3563-4087-9399-948B2F072438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A315C3-3563-4087-9399-948B2F072438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A315C3-3563-4087-9399-948B2F072438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A315C3-3563-4087-9399-948B2F072438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC0D9D5-C87A-42AE-976B-15A67837DA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC0D9D5-C87A-42AE-976B-15A67837DA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC0D9D5-C87A-42AE-976B-15A67837DA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC0D9D5-C87A-42AE-976B-15A67837DA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F14BDCD9-3640-4989-9BA8-4708940C404C} = {62B8591D-AB30-4F0F-8BF4-A3F70517E091}
+		{765CF002-1B1F-4E96-9C76-B59134E0FA70} = {62B8591D-AB30-4F0F-8BF4-A3F70517E091}
+		{9FCF1AA5-4B26-45A1-BFC9-10733445D509} = {A7817362-D7FD-4557-BF09-F7437E0C33BA}
+		{2AB4824D-88E2-4DE5-AA0B-1E61FCE40805} = {9FCF1AA5-4B26-45A1-BFC9-10733445D509}
+		{D293B8F8-F159-4505-BAFE-F3C2F3D5D732} = {9FCF1AA5-4B26-45A1-BFC9-10733445D509}
+		{9B679645-4C24-4938-92ED-BD510CA7D6AF} = {4B4E707E-761C-4950-8BD6-D642DFF1BA0A}
+		{2E476F2B-3A6E-4F1A-BB6F-97BF5A700299} = {4B4E707E-761C-4950-8BD6-D642DFF1BA0A}
+		{A9A315C3-3563-4087-9399-948B2F072438} = {4B4E707E-761C-4950-8BD6-D642DFF1BA0A}
+		{EA8FE191-0EDF-4E4C-9BC2-09936FEF174F} = {A7817362-D7FD-4557-BF09-F7437E0C33BA}
+		{F75BD54C-BFE7-4DCA-97A7-7851AFE2A9CA} = {EA8FE191-0EDF-4E4C-9BC2-09936FEF174F}
+		{FCC0D9D5-C87A-42AE-976B-15A67837DA52} = {BCB57F99-5E32-427B-ABDA-76B9CACDEB86}
+	EndGlobalSection
+EndGlobal

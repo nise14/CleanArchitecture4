@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\EnterpriseBusinessRules\Contoso.Entities\Contoso.Entities.csproj" />
+    <ProjectReference Include="..\..\EnterpriseBusinessRules\Contoso.Abstractions\Contoso.Abstractions.csproj" />
+    <ProjectReference Include="..\..\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\Contoso.Repository.Dapper.csproj" />
+    <ProjectReference Include="..\..\InterfacesAdapters\Repositories\Contoso.Repository.EFCore\Contoso.Repository.EFCore.csproj" />
+    <ProjectReference Include="..\..\ApplicationBusinessRules\Contoso.Builders\Contoso.Builders.csproj" />
+    <ProjectReference Include="..\..\ApplicationBusinessRules\Contoso.Interactors.Abstractions\Contoso.Interactors.Abstractions.csproj" />
+    <ProjectReference Include="..\..\ApplicationBusinessRules\Contoso.Videos.UseCases\Contoso.Videos.UseCases.csproj" />
+    <ProjectReference Include="..\..\InterfacesAdapters\Presenters\Contoso.Presenters\Contoso.Presenters.csproj" />
+  </ItemGroup>
+
+</Project>

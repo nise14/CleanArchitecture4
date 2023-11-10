@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qntPmf6KONOz0wYrb0KaaQ6jX1+Mhnrj8jurtFYfBPJ3pCfNANXszPB6ke3t0Ye4XcHJHJu9Q8ScHvducLbyFg==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CleanArchitecture\\ApplicationBusinessRules\\Contoso.Videos.UseCases\\Contoso.Videos.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

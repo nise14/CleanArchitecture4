@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVWKVx4zYH5lXwJSiZ3zj3gYChSgHZNj4S4N32JFfrSQa5G5O1TbIpUDTSCDcv4+Mjd8qzZCGCHnqnBYSMKtYA==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Presenters\\Contoso.Presenters\\Contoso.Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

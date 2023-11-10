@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Repositories\\Contoso.Repository.Dapper\\Contoso.Repository.Dapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\Contoso.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\Contoso.Abstractions.csproj",
+        "projectName": "Contoso.Abstractions",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\Contoso.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\Contoso.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\Contoso.Entities.csproj",
+        "projectName": "Contoso.Entities",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\Contoso.Entities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\Contoso.Abstractions.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Abstractions\\Contoso.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Repositories\\Contoso.Repository.Dapper\\Contoso.Repository.Dapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Repositories\\Contoso.Repository.Dapper\\Contoso.Repository.Dapper.csproj",
+        "projectName": "Contoso.Repository.Dapper",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Repositories\\Contoso.Repository.Dapper\\Contoso.Repository.Dapper.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\InterfacesAdapters\\Repositories\\Contoso.Repository.Dapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\Contoso.Entities.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\EnterpriseBusinessRules\\Contoso.Entities\\Contoso.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

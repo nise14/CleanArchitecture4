@@ -1,0 +1,11 @@
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\bin\Debug\net7.0\Contoso.Abstractions.deps.json
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\bin\Debug\net7.0\Contoso.Abstractions.dll
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\bin\Debug\net7.0\Contoso.Abstractions.pdb
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.dll
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\refint\Contoso.Abstractions.dll
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\Contoso.Abstractions.pdb
+C:\Repository\CleanArchitecture\EnterpriseBusinessRules\Contoso.Abstractions\obj\Debug\net7.0\ref\Contoso.Abstractions.dll

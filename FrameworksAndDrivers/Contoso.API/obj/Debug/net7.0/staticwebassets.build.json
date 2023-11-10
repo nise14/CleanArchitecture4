@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4zdSi+T5spoxieThRY8QZBLpsjcbZPsf2Rmd/7uR80A=",
+  "Source": "Contoso.API",
+  "BasePath": "_content/Contoso.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

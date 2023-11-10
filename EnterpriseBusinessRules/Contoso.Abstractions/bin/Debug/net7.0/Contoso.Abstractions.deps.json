@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Contoso.Abstractions/1.0.0": {
+        "runtime": {
+          "Contoso.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contoso.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

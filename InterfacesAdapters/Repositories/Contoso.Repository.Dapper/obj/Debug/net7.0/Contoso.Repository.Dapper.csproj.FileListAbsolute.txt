@@ -1,0 +1,17 @@
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Repository.Dapper.deps.json
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Repository.Dapper.dll
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Repository.Dapper.pdb
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Abstractions.dll
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Entities.dll
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Entities.pdb
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\bin\Debug\net7.0\Contoso.Abstractions.pdb
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.csproj.CopyComplete
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.dll
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\refint\Contoso.Repository.Dapper.dll
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\Contoso.Repository.Dapper.pdb
+C:\Repository\CleanArchitecture\InterfacesAdapters\Repositories\Contoso.Repository.Dapper\obj\Debug\net7.0\ref\Contoso.Repository.Dapper.dll
